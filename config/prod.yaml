@@ -1,0 +1,7 @@
+app:
+  name: "API de Previsão"
+  version: "1.0.0"
+
+model:
+  name: "ARIMA"
+  path: "models/model_arima.pkl"
