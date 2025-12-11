@@ -1,0 +1,9 @@
+--- Análise 1: Part Number (STM32F407) ---
+Similaridade com Componentes (Centróide): 0.5277
+Similaridade com Coisas Aleatórias (Centróide): 0.4663
+Conclusão: Caiu mais perto dos Componentes.
+
+--- Análise 2: A Palavra 'Banco' ---
+Similaridade Banco <-> Assento: 0.5991
+Similaridade Banco <-> Dinheiro: 0.7000
+O modelo associou 'Banco' mais a 'Dinheiro' (instituição financeira).
